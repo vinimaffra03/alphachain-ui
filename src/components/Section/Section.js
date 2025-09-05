@@ -30,7 +30,11 @@ function Section() {
               <button class="btn btn-primary-custom btn-lg">
                 <a
                   href="https://chat.whatsapp.com/GFcCTY10uV7L5sGFbBaWc6"
-                  style={{ textDecoration: "none", color: "#313131ff" }}
+                  style={{
+                    textDecoration: "none",
+                    color: "#ffffffff",
+                    fontWeight: "500",
+                  }}
                 >
                   Entrar na Comunidade
                 </a>

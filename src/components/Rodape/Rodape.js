@@ -5,37 +5,37 @@ import "./styles.css";
 
 function Rodape() {
   return (
-    <div className="bg-light d-flex justify-content-center align-items-center text-center p-5">
+    <div className="bg-dark d-flex justify-content-center align-items-center text-center p-5 pb-1">
       <div className="container display-1">
-        <p
-          className="text-black my-5 mx-auto"
-          style={{ maxWidth: "700px", fontSize: "0.30em" }}
-        >
-          <i>
-            "A melhor comunidade de trading que já participei. Ambiente
-            profissional, análises de qualidade e resultados consistentes."
-          </i>
-        </p>
-
         <div className="d-block">
           <p
-            className="fs-6 mb-1 mx-auto fw-semibold"
+            className="fs-6 mb-2 mx-auto fw-semibold"
             style={{ maxWidth: "700px", color: "#585858ff" }}
           >
-            Rafael Silva
+            <strong>ALPHA</strong>CHAIN
           </p>
 
           <p
-            className="mb-4 mx-auto"
+            className="mb-5 mx-auto"
             style={{
               maxWidth: "700px",
               fontSize: "0.19em",
               color: "#949393ff",
             }}
           >
-            Trader profissional
+            Trading inteligente para resultados extraordinários
           </p>
         </div>
+        <p
+          className="mb-2 mx-auto py-0"
+          style={{
+            maxWidth: "700px",
+            fontSize: "0.19em",
+            color: "#525252ff",
+          }}
+        >
+          © 2025 CriptoMaster. Todos os direitos reservados.
+        </p>
       </div>
     </div>
   );
