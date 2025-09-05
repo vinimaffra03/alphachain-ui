@@ -36,17 +36,21 @@ function Header() {
                 title="Comunidade"
                 id="offcanvasNavbarDropdown"
               >
-                <NavDropdown.Item href="#action3">
+                <NavDropdown.Item href="https://chat.whatsapp.com/GFcCTY10uV7L5sGFbBaWc6">
                   Grupo WhatsApp Gratuito
                 </NavDropdown.Item>
 
                 <NavDropdown.Divider />
 
-                <NavDropdown.Item href="#action4">Discord</NavDropdown.Item>
+                <NavDropdown.Item href="https://discord.gg/a8FSa7g8">
+                  Discord
+                </NavDropdown.Item>
 
                 <NavDropdown.Divider />
 
-                <NavDropdown.Item href="#action5">Telegram</NavDropdown.Item>
+                <NavDropdown.Item href="t.me/startcryptobr">
+                  Telegram
+                </NavDropdown.Item>
               </NavDropdown>
 
               <Nav.Link href="#action2">Contato</Nav.Link>
