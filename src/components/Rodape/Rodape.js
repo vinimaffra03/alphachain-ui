@@ -34,7 +34,7 @@ function Rodape() {
             color: "#525252ff",
           }}
         >
-          © 2025 CriptoMaster. Todos os direitos reservados.
+          © 2025 AlphaChain. Todos os direitos reservados.
         </p>
       </div>
     </div>
