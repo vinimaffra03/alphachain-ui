@@ -28,7 +28,10 @@ function Section() {
           <div class="col-auto">
             <div class="d-flex gap-3 flex-wrap justify-content-center">
               <button class="btn btn-primary-custom btn-lg">
-                <a href="https://chat.whatsapp.com/GFcCTY10uV7L5sGFbBaWc6">
+                <a
+                  href="https://chat.whatsapp.com/GFcCTY10uV7L5sGFbBaWc6"
+                  style={{ textDecoration: "none", color: "#313131ff" }}
+                >
                   Entrar na Comunidade
                 </a>
               </button>

@@ -1,6 +1,7 @@
 import Aside from "./components/Aside/Aside";
 import Header from "./components/Header/Header";
 import RecursosPremium from "./components/RecursosPremium/RecursosPremium";
+import Rodape from "./components/Rodape/Rodape";
 import ScriptPremium from "./components/ScriptPremium/ScriptPremium";
 import Section from "./components/Section/Section";
 import "./index.css";
@@ -14,6 +15,7 @@ function App() {
         <RecursosPremium />
         <ScriptPremium />
         <Aside />
+        <Rodape />
       </div>
     </div>
   );
