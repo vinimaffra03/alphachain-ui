@@ -27,9 +27,12 @@ function Section() {
         <div class="row justify-content-center mb-5">
           <div class="col-auto">
             <div class="d-flex gap-3 flex-wrap justify-content-center">
-              <button class="btn btn-primary-custom btn-lg">
+              <a
+                class="btn btn-primary-custom btn-lg"
+                href="https://chat.whatsapp.com/GFcCTY10uV7L5sGFbBaWc6"
+              >
                 Entrar na Comunidade
-              </button>
+              </a>
               <button class="btn btn-outline-custom btn-lg">
                 Conhecer Primeiro
               </button>
